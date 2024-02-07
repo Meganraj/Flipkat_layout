@@ -1,0 +1,117 @@
+*{
+    margin:5px;
+    width: auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.logosection{
+    display: flex;
+    height: 4rem;
+    justify-content: space-around;
+    align-items: center;
+    background-color: red;
+    border-radius: 5px;
+}
+.status{
+    background-color:#ffffff;
+    border-radius: 2px;
+}
+.logo{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    border-radius: 2px;
+}
+.search{
+    background-color: #ffffff;
+    border-radius: 2px;
+    width:250px
+}
+.login{
+    padding-left: 30px;
+}
+.cart{
+    padding-left: 30px;
+}
+.seller{
+    padding-left: 30px;
+}
+.options{
+    padding-left: 40px;
+    padding-right: 30px;
+}
+.statusbar{
+    display: flex;
+    height: 7rem;
+    justify-content: space-around;
+    align-items: center;
+    background-color: red;
+    margin:10px;
+    border-radius: 5px;
+}
+img{
+    height: 10rem;
+    width: 90%;
+}
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:9rem;
+    background-color: red;
+    border-radius: 5px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    height: 8.5rem;
+    width: 91.5rem;
+    background-color: white;
+    border-radius: 5px;
+}
+.Container3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 9px;
+    height: 30rem;
+    background-color: red;
+    border-radius: 5px;
+}
+.subcon{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:80%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:20%;
+    border-radius: 3%;
+    background-color: yellow;
+    margin:10px;
+}
+.subcon1{
+    width: 20%;
+    margin-top: 7px;
+    margin-left: 10px;
+    margin-bottom: 7px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+.Image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:95%;
+    background-color: yellow;
+    margin: 10px;
+    width: ;
+    border-radius: 3%;
+}
